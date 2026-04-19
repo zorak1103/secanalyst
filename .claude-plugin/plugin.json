@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "Automated OWASP Top 10 security scanner with adversarial triage loop and static PoC generation. Scans local directories, GitHub repos, and GitLab repos. Findings are verified through a Challenger agent to minimize false positives.",
   "author": {
-    "name": "zorak1103"
+    "name": "zorak1103",
+    "url": "https://github.com/zorak1103"
   },
+  "homepage": "https://github.com/zorak1103/secanalyst",
+  "repository": "https://github.com/zorak1103/secanalyst",
   "license": "MIT",
   "keywords": [
     "security",

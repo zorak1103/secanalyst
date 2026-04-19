@@ -16,12 +16,12 @@ Automated OWASP Top 10 security audit for software projects. Accepts a local dir
 ### Requires Claude Code ≥ 1.x with plugin support
 
 ```bash
-# From a local clone
-git clone https://github.com/<owner>/secanalyst.git
-/plugin install ./secanalyst
+# Direkt aus GitHub
+/plugin install zorak1103/secanalyst
 
-# Or directly from GitHub (once published)
-/plugin install <owner>/secanalyst
+# Oder via lokalem Clone
+git clone https://github.com/zorak1103/secanalyst.git
+/plugin install ./secanalyst
 ```
 
 ## Prerequisites
