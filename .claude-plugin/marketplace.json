@@ -1,0 +1,17 @@
+{
+  "name": "secanalyst",
+  "owner": {
+    "name": "zorak1103",
+    "url": "https://github.com/zorak1103"
+  },
+  "plugins": [
+    {
+      "name": "secanalyst",
+      "source": ".",
+      "description": "Automated OWASP Top 10 security scanner with adversarial triage loop and static PoC generation.",
+      "version": "1.0.0",
+      "category": "security",
+      "keywords": ["security", "owasp", "sast", "audit", "vulnerability"]
+    }
+  ]
+}
