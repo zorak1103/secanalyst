@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "secanalyst",
-      "source": ".",
+      "source": "./",
       "description": "Automated OWASP Top 10 security scanner with adversarial triage loop and static PoC generation.",
       "version": "1.0.0",
       "category": "security",
